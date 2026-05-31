@@ -1,3 +1,5 @@
+package ConditionalLogic;
+
 public class Conditional {
     public static void main(String[] args) {
         int nilaiUjian = 95;

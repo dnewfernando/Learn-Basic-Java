@@ -44,6 +44,9 @@ public class PR1 {
                     break;
                 default:
                     System.out.println("Operator tidak valid. Silakan coba lagi.");
+                    angka1.close();
+                    opr.close();
+                    angka2.close();
             }
         }
     }
